@@ -11,3 +11,4 @@ Here you can see arduino with the needed modules.
 ![here is the electronics for this project](https://github.com/Buni42/bluetooth-app/blob/main/pictures/WhatsApp%20Image%202023-02-23%20at%2016.04.32.jpg)
 
 ![the UI](https://github.com/Buni42/bluetooth-app/blob/main/pictures/2023-02-23%2016-54-04_Moment%20(2).jpg)
+![options](https://github.com/Buni42/bluetooth-app/blob/main/pictures/2023-02-23%2016-54-04_Moment(3).jpg)
