@@ -6,4 +6,4 @@ The reason for this little app is that we needed to communicate through a soundp
 
 ![here is the electronics for this project](https://github.com/Buni42/bluetooth-app/blob/main/pictures/bapp_doos_front2.jpg)
 
-![here is the electronics for this project](https://github.com/Buni42/bluetooth-app/blob/main/pictures/bapp_doos_front2.jpg)
+![here is the electronics for this project](https://github.com/Buni42/bluetooth-app/blob/main/pictures/WhatsApp%20Image%202023-02-23%20at%2016.04.32.jpg)
