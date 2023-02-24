@@ -17,15 +17,25 @@ func _on_boven_pressed() -> void:
 	Game.PORT.write("2")
 	print("2")
 
-
 func _on_beneden_pressed() -> void:
 	Game.PORT.write("3")
 	print("3")
 
-
 func _on_origin_pressed() -> void:
 	Game.PORT.write("4")
 	print("4")
+
+func _on_boven_released() -> void:
+	Game.PORT.write("9")
+	print("9")
+
+func _on_origin_released() -> void:
+	Game.PORT.write("9")
+	print("9")
+
+func _on_beneden_released() -> void:
+	Game.PORT.write("9")
+	print("9")
 
 
 func _on_power_pressed() -> void:
@@ -41,3 +51,4 @@ func _on_power_pressed() -> void:
 		get_node("TabContainer/1-axis/power/Label").text = "off"
 		get_node("TabContainer/1-axis/power").self_modulate = Color("d75b1008")
 		Game.power_pressed = false
+
